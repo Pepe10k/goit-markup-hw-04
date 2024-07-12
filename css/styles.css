@@ -317,7 +317,7 @@ img {
 }
 
 .our-team-icon {
-  fill: white;
+  fill: #f4f4fd;
 }
 
 .portfolio-title {
@@ -407,6 +407,10 @@ img {
   display: flex;
 }
 
+.footer-logo-container {
+  margin-right: 120px;
+}
+
 .logo-footer {
   display: inline-block;
   margin-left: auto;
@@ -431,7 +435,7 @@ img {
 }
 
 .footer-icon-container {
-  margin-left: 120px;
+  align-items: baseline;
 }
 
 .footer-icon-list {
@@ -452,7 +456,7 @@ img {
 }
 
 .footer-icon {
-  fill: white;
+  fill: #f4f4fd;
 }
 
 .footer-icon-link:hover,
