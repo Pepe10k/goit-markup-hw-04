@@ -405,6 +405,7 @@ img {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-logo-container {
@@ -432,10 +433,6 @@ img {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
-
-.footer-icon-container {
-  align-items: baseline;
 }
 
 .footer-icon-list {
